@@ -2,6 +2,7 @@
 $(document).ready(function () {
     if (obj) {
         $('#formCadastro #Nome').val(obj.Nome);
+        $('#formCadastro #CPF').val(obj.CPF);
         $('#formCadastro #CEP').val(obj.CEP);
         $('#formCadastro #Email').val(obj.Email);
         $('#formCadastro #Sobrenome').val(obj.Sobrenome);
@@ -20,6 +21,7 @@ $(document).ready(function () {
             method: "POST",
             data: {
                 "NOME": $(this).find("#Nome").val(),
+                "CPF": $(this).find("#CPF").val(),
                 "CEP": $(this).find("#CEP").val(),
                 "Email": $(this).find("#Email").val(),
                 "Sobrenome": $(this).find("#Sobrenome").val(),
@@ -37,10 +39,9 @@ $(document).ready(function () {
                     ModalDialog("Ocorreu um erro", "Ocorreu um erro interno no servidor.");
             },
             success:
-            function (r) {
-                ModalDialog("Sucesso!", r)
-                $("#formCadastro")[0].reset();                                
-                window.location.href = urlRetorno;
+                function (r) {
+                    ModalDialog("Sucesso!", r)
+                    $("#formCadastro");
             }
         });
     })
