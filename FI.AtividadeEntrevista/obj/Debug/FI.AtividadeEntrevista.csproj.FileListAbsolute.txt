@@ -22,3 +22,9 @@ C:\Users\SPONTES\Desktop\Julio\funcao\FI.WebAtividadeEntrevista\FI.AtividadeEntr
 C:\Users\SPONTES\Desktop\Julio\funcao\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.CoreCompileInputs.cache
 C:\Users\SPONTES\Desktop\Julio\funcao\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.dll
 C:\Users\SPONTES\Desktop\Julio\funcao\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb
+C:\AtivFuncao\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.dll
+C:\AtivFuncao\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.pdb
+C:\AtivFuncao\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csprojAssemblyReference.cache
+C:\AtivFuncao\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.CoreCompileInputs.cache
+C:\AtivFuncao\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.dll
+C:\AtivFuncao\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb
